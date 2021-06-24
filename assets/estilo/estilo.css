@@ -1,5 +1,5 @@
 .borda {
-    border: 2px rgb(255, 255, 255) solid;
+    border: 2px rgb(0, 0, 0) solid;
     align-items: center;
 }
 
@@ -18,10 +18,10 @@
 }
 .letra {
     font-family: cursive;
-    color: white;
+    color: rgb(0, 0, 0), 0, 0);
 }
 .fundo{
-    background-color: rgb(26, 23, 23);
+    background-color: rgb(153, 153, 153);
 }
 .mi {
     margin: 18px;
