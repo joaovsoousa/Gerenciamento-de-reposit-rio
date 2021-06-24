@@ -1,0 +1,32 @@
+.borda {
+    border: 2px rgb(255, 255, 255) solid;
+    align-items: center;
+}
+
+.c {
+    margin: 20px;
+    text-align: center;
+    object-position: center;
+}
+.a {
+    padding: 2px;
+    margin: 15px 30px;
+}
+
+.m {
+    margin: 20px;
+}
+.letra {
+    font-family: cursive;
+    color: white;
+}
+.fundo{
+    background-color: rgb(26, 23, 23);
+}
+.mi {
+    margin: 18px;
+}
+.tl {
+    font-size: 27px;
+}
+
